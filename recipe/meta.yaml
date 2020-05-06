@@ -42,6 +42,7 @@ about:
     from editors at 'FiveThirtyEight', this  package is not officially published by
     'FiveThirtyEight'.
   license_family: MIT
+  license_file: LICENSE
 
 extra:
   recipe-maintainers:
