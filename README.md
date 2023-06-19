@@ -1,11 +1,11 @@
-About r-fivethirtyeight
-=======================
+About r-fivethirtyeight-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fivethirtyeight-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rudeboybert/fivethirtyeight
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fivethirtyeight-feedstock/blob/main/LICENSE.txt)
 
 Summary: Datasets and code published by the data journalism website  'FiveThirtyEight' available at <https://github.com/fivethirtyeight/data>.  Note that while we received guidance from editors at 'FiveThirtyEight', this  package is not officially published by 'FiveThirtyEight'.
 
